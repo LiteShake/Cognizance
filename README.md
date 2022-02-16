@@ -1,5 +1,5 @@
 # Cognizance Preliminary Tasks
-## Hi, If you are an admin/doing task evaluations in Cognizance , please read the note in italics before diving into the repo
+### Hi, If you are an admin/doing task evaluations in Cognizance , please read the note in italics before diving into the repo :)
 
 Name : Viswanathan V <br>
 Roll no : 21164 <br>
