@@ -2,7 +2,7 @@
 
 int n ;
 
-n = 123 
+n = input any number 
 div = n / 3
 
 if( div == div*10 // 10 )
