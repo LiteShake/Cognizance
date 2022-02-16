@@ -1,0 +1,14 @@
+# PROBLEM 1
+
+int n ;
+
+n = 123 
+div = n / 3
+
+if( div == div*10 // 10 )
+
+    print "True"
+
+else 
+
+    print "False"
