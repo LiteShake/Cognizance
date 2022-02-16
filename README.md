@@ -1,1 +1,1 @@
-# Cognizance Prelimnary Tasks
+# Cognizance Preliminary Tasks
