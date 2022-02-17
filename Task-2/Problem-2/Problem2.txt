@@ -11,7 +11,9 @@ function Fib( integer n )
     end if-else
 end function 
 
-int n
+int n, sol
 n = input any number
 
-Fib(n)
+sol = Fib(n)
+
+print sol
