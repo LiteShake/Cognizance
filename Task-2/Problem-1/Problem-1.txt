@@ -12,3 +12,5 @@ if( div == div*10 // 10 )
 else 
 
     print "False"
+
+end
