@@ -1,6 +1,6 @@
 # PROBLEM 1
 
-int n, div ;
+float n, div ;
 
 n = input any number 
 div = n / 3
