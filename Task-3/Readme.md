@@ -1,10 +1,10 @@
 # Task-3
 ## WEB DESIGNING
+### Landing page for a Discord bot.
 
 Made with **Adobe XD** <br>
-Landing page for a Discord bot.
 
-### *Scroll / Open image in new tab to see full image :)*
+#### *Scroll / Open image in new tab to see full image :)*
 
 **Image Details :** 
 - Format .png <br>
