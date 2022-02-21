@@ -4,7 +4,9 @@ for instance, student details like Roll no, Student Name, Marks
 """
 
 # INITIALIZING ARRAY
-data2D = []
+data2D = [
+    ["Roll No","Name","Marks"]
+]
 
 # FUNCTION TO PRINT 2D ARRAY
 def Print2DArray( list2d ) :
@@ -31,7 +33,6 @@ i) Add some records in the list and print the list in tabular form,
 # ADDING REQUIRED ELEMENTS TO ARRAY
 def AddToArray() :
     
-    data2D.append( ["Roll No","Name","Marks"] )
     data2D.append( [1,"Abc",90] )
     data2D.append( [2,"Def",95] )
     data2D.append( [3,"Ghi",85] )
