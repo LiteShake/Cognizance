@@ -6,10 +6,6 @@ for instance, student details like Roll no, Student Name, Marks
 # INITIALIZING ARRAY
 data2D = []
 
-"""
-i) Add some records in the list and print the list in tabular form,
-"""
-
 # FUNCTION TO PRINT 2D ARRAY
 def Print2DArray( list2d ) :
 
@@ -28,6 +24,10 @@ def Print1DArray( list1d ) :
     for elemt in list1d :
         print( str(elemt) + "        ", end = " ")  
 
+
+"""
+i) Add some records in the list and print the list in tabular form,
+"""
 # ADDING REQUIRED ELEMENTS TO ARRAY
 def AddToArray() :
     
