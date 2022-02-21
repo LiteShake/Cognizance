@@ -13,7 +13,6 @@ data2D = [
     ["Item No","Name","Price"]
 ]
 
-
 # FUNCTION TO PRINT 1D ARRAY
 def Print1DArray( list1d ) :
     for elemt in list1d :
