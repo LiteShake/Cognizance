@@ -37,7 +37,7 @@ i) Add some records in the list and print the list in tabular form,
 def AddToArray() :
     
     try :       # ANTI-CRASH IF USER GIVES STRING IN INT / FLOAT FIELDS
-        item_no = int(input("\nEnter item no : "))
+        item_no = int(input("\nEnter item no (-1 to stop adding) : "))
 
         if ( item_no == -1 ) : return False     # BREAKS LOOP IF item_no IS -1
 
