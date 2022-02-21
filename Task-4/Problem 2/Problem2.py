@@ -2,13 +2,7 @@
 Write a program to accept a string from the user and display characters, that are
 present at an even index number.
 """
-"""
-Quick Intro :
 
-I tried to get even characters of a string without using indices 
-I creates a control variable that is true for every even iteration and false for every odd iteration
-So if the control variable is true the character gets added to the new word.
-"""
 
 # FUNCTION TO RETURN EVEN CHARACTER WORDS
 def EvenChars( word ) :     # INPUTS WORD
