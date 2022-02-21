@@ -3,11 +3,14 @@ Write a python program to make a 2-dimensional list that contains represents a t
 for instance, student details like Roll no, Student Name, Marks
 """
 
+# INITIALIZING ARRAY
 data2D = []
 
 """
 i) Add some records in the list and print the list in tabular form,
 """
+
+# FUNCTION TO PRINT 2D ARRAY
 def Print2DArray( list2d ) :
 
     for elemt in list2d[0] :
@@ -20,10 +23,12 @@ def Print2DArray( list2d ) :
             print( str(elemt) + "        ", end = " ")
         print()
 
+# FUNCTION TO PRINT 1D ARRAY
 def Print1DArray( list1d ) :
     for elemt in list1d :
         print( str(elemt) + "        ", end = " ")  
 
+# ADDING REQUIRED ELEMENTS TO ARRAY
 def AddToArray() :
     
     data2D.append( ["Roll No","Name","Marks"] )
