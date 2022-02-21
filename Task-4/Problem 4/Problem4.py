@@ -13,7 +13,7 @@ def FindNumOfDigs( test_num ) :
 
 
 def CheckPalindrome( check_num ) :      # FUNCTION TO CHECK PALINDROME
-    new_num = 0     # INITIALIZES REVERSE NUMBER TO ZERO
+    new_num = 0                 # INITIALIZES REVERSE NUMBER TO ZERO
     orig_num = check_num        # BACKS UP ORIGINAL NUMBER BECAUSE ITS GONNA GO THROUGH A LOT OF MATH
 
     numOfDigits = FindNumOfDigs(check_num)      # FINDS NUMBER OF DIGITS OF THE GIVEN NUMBER
@@ -25,7 +25,7 @@ def CheckPalindrome( check_num ) :      # FUNCTION TO CHECK PALINDROME
 
         numOfDigits -= 1                                                # numOfDigits   :   5       4       3       2       1
     
-    if( orig_num == new_num ) : return True     # CHECKS IF GIVEN NUMBER IS EQUAL TO REVERSE OR NOT
+    if( orig_num == new_num ) : return True         # CHECKS IF GIVEN NUMBER IS EQUAL TO REVERSE OR NOT
     else : return False
 
 # START HERE
