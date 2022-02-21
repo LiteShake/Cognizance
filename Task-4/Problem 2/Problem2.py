@@ -18,4 +18,5 @@ def EvenChars( word ) :     # INPUTS WORD
 
     return even_word    # RETURN THE NEW WORD
 
+# START HERE
 print( EvenChars( input("Enter the string : ") ) )      # INPUTS STRING FROM USER AND PRINTS THE RESULT FROM THE FUNCTION
