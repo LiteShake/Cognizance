@@ -1,9 +1,6 @@
 """
 Write a program to perform addition on two user input numbers
 """
-"""
-Write a program to perform addition on two user input numbers.
-"""
 
 # I CREATED A SUM FUNCTION BECAUSE WHY NOT ?
 def Sum(fst_num , sec_num) :    # INPUTS TWO NUMS
