@@ -4,11 +4,6 @@ for instance, student details like Roll no, Student Name, Marks
 """
 
 # INITIALIZING ARRAY
-from audioop import add
-
-from numpy import array
-
-
 data2D = [
     ["Item No","Name","Price"]
 ]
