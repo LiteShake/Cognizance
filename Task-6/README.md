@@ -2,7 +2,7 @@
 
 Intelligent Discord for fun and server moderation.
 
-Stella is a discord bot created by me and a group of friends primarily to have fun using [python](https://www.python.org/)
+Stella is a discord bot created by me and a group of friends primarily to have fun using [python](https://www.python.org/).
 
 ## <u>Why we made Stella ?</u>
 
@@ -19,5 +19,5 @@ The current version is running in a [replit](https://replit.com/) server and has
 ## <u>Future plans</u>
 We are planning to add a Natural Language Processor to our bot so that it can understand what we chat to it and chat accordingly, a Machine Learning model to learn to chat freely and mingle with everyone and a voice-chat voice recognition system.
 
-### <u>References</u>
+## <u>References</u>
 - [to upload youtube upload]
