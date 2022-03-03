@@ -17,7 +17,12 @@ After seeing many discord bots I felt like they are just, you know .. bots. They
 The current version is running in a [replit](https://replit.com/) server and has many fun features but A.I features are not that much implemented yet. One can ask questions and get random answers, play minigames like tic-tac-toe, rock-papar-scissors, connect to a voice channel and play music etc. But most of the features are controlled by a algorithms or pre-programmed general instructions.
 
 ## <u>Future plans</u>
-We are planning to add a Natural Language Processor to our bot so that it can understand what we chat to it and chat accordingly, a Machine Learning model to learn to chat freely and mingle with everyone and a voice-chat voice recognition system.
+We are planning to..
+> Add a Natural Language Processor so that the bot can undestand and resopnd to natural messages.
+
+> Add a Machine Learning Model so that It can learn to chat casually and mingle with everyone.
+
+> A Voice-Chat Voice Recognition system.
 
 ## <u>References</u>
 - [to upload youtube upload]
