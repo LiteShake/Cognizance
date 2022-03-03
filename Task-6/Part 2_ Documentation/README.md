@@ -2,7 +2,8 @@
 
 Intelligent Discord bot for fun and server moderation.
 
-Stella is a discord bot created by me and a group of friends primarily to have fun using [python](https://www.python.org/).
+Stella is a discord bot created by me and a group of friends primarily to have fun. <br>
+Made with [Python](https://www.python.org/) and the [Discord API](https://discord.com/developers/docs/intro) .
 
 ## <u style="color:#ff63c6" >Why we made Stella ?</u>
 
@@ -14,7 +15,8 @@ After seeing many discord bots I felt like they are just, you know .. bots. They
 
 ## <u style="color:#ff63c6" > Current State </u>
 
-The current version is running in a [replit](https://replit.com/) server and has many fun features but A.I features are not that much implemented yet. One can ask questions and get random answers, play minigames like tic-tac-toe, rock-papar-scissors, connect to a voice channel and play music etc. But most of the features are controlled by carefully programmed algorithms.
+The current version is running in a [replit](https://replit.com/) server and has many fun features but A.I features are not that much implemented yet. One can ask questions and get random answers, play minigames like tic-tac-toe, rock-papar-scissors, connect to a voice channel and play music etc. But most of the features are controlled by carefully programmed algorithms. <br>
+We are trying to move things step-by-step to the ultimate goal.
 
 ## <u style="color:#ff63c6" >Previews</u>
 #### Asking Casual questions <br>
