@@ -35,4 +35,4 @@ We are planning to..
 > A Voice-Chat Voice Recognition system.
 
 ## <u style="color:#ff63c6" >References</u>
-- [to upload youtube upload]
+- [Presentation youtube video](https://youtu.be/5bh2A1BJT04)
