@@ -1,4 +1,4 @@
-# <strong style="color:#ffb5ef" >Stella</strong> : An Intelligent Discord Bot
+# <strong style="color:#ffb5ef"> Stella</strong> : An Intelligent Discord Bot
 
 Intelligent Discord for fun and server moderation.
 
