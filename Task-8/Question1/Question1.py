@@ -14,6 +14,7 @@ Out :
 
 import numpy as np
 
+# THIS PROGRAM IS BASICALLY A LOT OF CONCATINATING ARRAYS WITH ZERO ARRAYS
 def Problem(fnum , lnum) :
     out = np.concatenate( (np.array([fnum]), np.zeros(shape=5) ))
 

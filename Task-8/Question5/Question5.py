@@ -28,20 +28,23 @@ print(f"\nB = \n{B}")
 C = np.matmul( A, B )
 print(f"\nC = A x B = \n{C}")
 
+
+
 """
 7 : INDICES WHERE 2 NP-ARRAYS HAVE MATCH
 """
 
 print("\nINDICES WHERE 2 NP-ARRAYS HAVE MATCH\n")
+
 def GetCommonIndices( M1, M2 ) :
 
     small = None
-    if( len(M1) > len(M2) ) : small = M2
-    else : small = M1
+    if( len(M1) > len(M2) ) : small = M2     # FINDING SMALL ARRAY IN CASE OF DIFFERENT LENGTHS TO ITERATE LESS
+    else : small = M1                        # POINTLESS IN THIS CASE BECAUSE BOTH ARE OF SAME LENGTH
     
-    indices = []
+    indices = []                             # LIST FOR COMMON INDICES
     for i in range( len( small ) ) :
-        if( X[i] == Y[i]) : 
+        if( X[i] == Y[i]) :                  # CONDITION TO CHECK EQUALITY
             indices.append(i)
             
     return indices
