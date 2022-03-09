@@ -11,3 +11,42 @@ Do any two Exercises using Numpy
 6.Custom Sequence Generation
 7.Getting the positions (indexes) where elements of 2 numpy arrays match
 """
+
+import numpy as np
+
+"""
+2 : MATRIX MULTIPLICATION
+"""
+print("MATRIX MULTIPLICATION\n")
+
+A = np.random.randint(4, 7, (3,5))
+B = np.random.randint(4, 7, (5,3))
+
+print(f"\nA = \n{A}")
+print(f"\nB = \n{B}")
+
+C = np.matmul( A, B )
+print(f"\nC = A x B = \n{C}")
+
+"""
+7 : INDICES WHERE 2 NP-ARRAYS HAVE MATCH
+"""
+
+print("\nINDICES WHERE 2 NP-ARRAYS HAVE MATCH\n")
+def GetCommonIndices( M1, M2 ) :
+
+    small = None
+    if( len(M1) > len(M2) ) : small = M2
+    else : small = M1
+    
+    indices = []
+    for i in range( len( small ) ) :
+        if( X[i] == Y[i]) : 
+            indices.append(i)
+            
+    return indices
+
+X = np.random.randint(0, 9, 19)
+Y = np.random.randint(0, 9, 19)
+print(f"Indices where {X} and {Y} have same element" )
+print( GetCommonIndices(X,Y) )

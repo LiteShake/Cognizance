@@ -12,3 +12,13 @@ Second array:
 Out :
 False
 """
+
+import numpy as np
+
+A = np.random.randint(0,2,6)
+print(A)
+
+B = np.random.randint(0,2,6)
+print(B)
+
+print( (A == B).all() )
